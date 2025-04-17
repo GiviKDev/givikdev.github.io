@@ -1,15 +1,15 @@
 title: Dev's homepage
 description: Sharing deep .NET insights and real-world solutions.
 url: "https://givikdev.github.io"
+lang: en
 author: Givi Kesanashvili
 
 theme: minima
 minima:
+  skin: auto
   social_links:
     github: givikdev
     linkedin: givikesanashvili
-
-markdown: GFM
 
 header_pages:
   - index.md
@@ -18,3 +18,4 @@ header_pages:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap

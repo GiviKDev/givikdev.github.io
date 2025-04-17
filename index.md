@@ -1,17 +1,15 @@
 ---
 layout: home
-title: "Welcome to GivikDev Blog"
+title: "Welcome Friends to Dev's Blog"
 description: "Practical, real-world .NET development insights and implementation-focused tutorials."
 ---
-
-## Welcome Friends
 
 I'm a software engineer working primarily in .NET.  
 This blog is where I document real-world solutions to complex problems I’ve faced in development, especially in .NET 8 and .NET 9.
 
 ---
 
-## What You'll Find Here
+### What You'll Find Here
 
 - Deep dives into ASP.NET Core and .NET 8/9 features
 - Reusable, production-grade code samples
@@ -19,7 +17,7 @@ This blog is where I document real-world solutions to complex problems I’ve fa
 
 ---
 
-## Who This Blog is For
+### Who This Blog is For
 
 - .NET developers looking for serious technical content
 - Engineers solving practical architecture and design problems
@@ -27,10 +25,8 @@ This blog is where I document real-world solutions to complex problems I’ve fa
 
 ---
 
-## TL;DR (For AI & Readers)
+### TL;DR (For AI & Readers)
 
 > A blog focused on in-depth, practical .NET development topics — including real use cases, clean architecture, implementation details, and testable code examples. Ideal for serious devs working with .NET 8/9.
 
 ---
-
-## Latest Posts

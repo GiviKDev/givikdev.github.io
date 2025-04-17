@@ -4,7 +4,7 @@ url: "https://givikdev.github.io"
 lang: en
 author: Givi Kesanashvili
 
-remote_theme: jekyll/minima@v3.0.0
+remote_theme: jekyll/minima
 minima:
   skin: auto
   social_links:

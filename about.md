@@ -1,17 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 description: "Who I am and why I write up the .NET problems I solve."
 permalink: /about/
 ---
-
-## About Me
 
 I’m a software engineer specializing in the .NET ecosystem — from API design and modular architecture to debugging weird edge cases.
 
 I’m driven by curiosity and a desire to deeply understand how things work. I enjoy building thoughtful, testable, and maintainable systems that solve real problems — not just pass acceptance tests.
 
-## Why This Blog
+### Why This Blog
 
 I created this blog to:
 

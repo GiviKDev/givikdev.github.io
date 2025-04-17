@@ -1,7 +1,9 @@
 ---
 layout: home
 title: "Welcome to Dev's Blog"
-description: "Practical, real-world .NET development insights and implementation-focused tutorials."
+description: >
+  Real‑world .NET 8/9 development insights—deep dives into ASP.NET Core features,
+  architecture patterns, clean code, testability, and reusable code samples.
 ---
 
 I'm a software engineer working primarily in .NET.  

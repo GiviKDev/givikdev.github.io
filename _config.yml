@@ -1,5 +1,7 @@
 title: Dev's homepage
-description: Sharing deep .NET insights and real-world solutions.
+description: >
+  Real‑world .NET 8/9 development insights—deep dives into ASP.NET Core features,
+  architecture patterns, clean code, testability, and reusable code samples.
 author:
   name: GiviKDev
 

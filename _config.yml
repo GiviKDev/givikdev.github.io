@@ -4,9 +4,9 @@ url: "https://givikdev.github.io"
 lang: en
 author: Givi Kesanashvili
 
-theme: minima
+remote_theme: jekyll/minima@v3.0.0
 minima:
-  skin: dark
+  skin: auto
   social_links:
     github: givikdev
     linkedin: givikesanashvili
@@ -18,3 +18,4 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme

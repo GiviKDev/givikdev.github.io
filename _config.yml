@@ -12,7 +12,6 @@ minima:
     linkedin: givikesanashvili
 
 header_pages:
-  - index.md
   - about.md
 
 plugins:

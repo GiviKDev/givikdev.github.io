@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome Friends to Dev's Blog"
+title: "Welcome to Dev's Blog"
 description: "Practical, real-world .NET development insights and implementation-focused tutorials."
 ---
 

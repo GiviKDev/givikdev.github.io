@@ -6,7 +6,7 @@ author: Givi Kesanashvili
 
 theme: minima
 minima:
-  skin: auto
+  skin: dark
   social_links:
     github: givikdev
     linkedin: givikesanashvili

@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "Welcome to Dev's Blog"
+list_title: "Latest Posts"
 description: >
   Real‑world .NET 8/9 development insights—deep dives into ASP.NET Core features,
   architecture patterns, clean code, testability, and reusable code samples.

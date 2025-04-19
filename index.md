@@ -13,7 +13,7 @@ Each time you streamline or upgrade your code, you’re not just improving softw
 * **Greater reliability** – survive real‑world load, failures, and edge cases  
 * **Lower cost of change** – reduce tech‑debt drag and speed up new feature work  
 * **Business agility** – adapt to regulations, UX demands, or market pivots without rewrites  
-* **Skill amplification** – every refactor, migration, or optimization deepens your .NET expertise
+* **Skill amplification** – every refactor, migration, or optimization deepens your expertise
 
 ## Modernization topics (quick tour)
 
@@ -41,7 +41,7 @@ Each post tackles a framework component by answering three pragmatic questions:
 * When to apply it
 * How to adapt it to evolving project requirements
 
-### What you’ll find here
+## What you’ll find here
 
 * ASP.NET Core internals—routing, localization, configuration, middleware, error handling, logging  
 * Performance‑oriented Entity Framework Core patterns and migrations  
@@ -49,12 +49,8 @@ Each post tackles a framework component by answering three pragmatic questions:
 * Reusable, production‑grade code snippets  
 * Deployment and DevOps notes in a .NET context  
 
-### Who will benefit
+## Who will benefit
 
 * .NET engineers modernizing legacy services or designing new cloud‑ready back ends  
 * Developers who favor continuous improvement over “good enough”  
 * Teams chasing maintainability, observability, and performance in .NET 8/9 and beyond  
-
-#### TL;DR
-
-> A .NET‑centric field notebook devoted to continuous modernization: what each framework feature solves, when it matters, and how to refine it—iteration after iteration—for real‑world systems …and for your own ever‑growing expertise.

@@ -1,7 +1,7 @@
-title: GiviKDev
+title: Journey to Modernization with .NET
 description: >
-  Real-world .NET 8/9 development insights—deep dives into ASP.NET Core features,
-  architecture patterns, clean code, testability, and reusable code samples.
+  Exploring the backend slice of the modernization journey with a focus on the .NET ecosystem. 
+  Discover each component—what it solves, when to apply it, and how to adapt it to evolving project requirements.
 author:
   name: GiviKDev
 
@@ -12,15 +12,16 @@ remote_theme: jekyll/minima
 minima:
   skin: auto
   nav_pages:
+    - posts.md
     - about.md
   show_excerpts: true
   social_links:
     - title: GiviKDev at GitHub
       icon: github
-      url: "https://github.com/GiviKDev"
+      url: https://github.com/GiviKDev
     - title: Givi Kesanashvili at LinkedIn
       icon: linkedin
-      url: "https://www.linkedin.com/in/givikesanashvili/"
+      url: https://www.linkedin.com/in/givikesanashvili/
 
 plugins:
   - jekyll-feed

@@ -1,7 +1,6 @@
 ---
-layout: home
+layout: page
 title: null
-list_title: Latest Posts
 ---
 
 Modernization is a **mind‑set of relentless refinement** — for your systems **and** for yourself.

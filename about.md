@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: "Who I am and why I write up the .NET problems I solve."
+description: Who I am and why I write up the .NET problems I solve.
 permalink: /about/
 ---
 

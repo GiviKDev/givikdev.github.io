@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "What Modernization Means"
+title: What Modernization Means
 permalink: /modernization/
 ---
-
-## What Modernization Means
 
 Modernization is a **philosophy of relentless refinement**—not just updating code, but evolving everything from architecture to teams and processes. It’s the practice of continually raising the bar: making systems clearer, faster, safer, and more adaptable—and in the process, sharpening your own skills.
 

@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Journey to Modernization with .NET"
-list_title: "Latest Posts"
+title: null
+list_title: Latest Posts
 ---
 
 Modernization is a **mind‑set of relentless refinement** — for your systems **and** for yourself.

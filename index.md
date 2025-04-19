@@ -1,6 +1,7 @@
 ---
 layout: home
 title: What is Modernization?
+list_title: Posts
 ---
 
 Modernization is a **mindset of relentless refinement**—for your systems **and** yourself.  
@@ -16,15 +17,6 @@ For an expanded exploration, see **[What Modernization Means](/modernization/)**
 
 ---
 
-## Why this blog exists
-
-While modernization covers a wide spectrum, **this site focuses specifically on backend modernization using .NET**.  
-Each post breaks down components of the framework by addressing three practical questions:  
-
-- **What** problem does it solve?  
-- **When** should you apply it?  
-- **How** can you adapt it to evolving project requirements?
-
 ## Topics you'll explore here
 
 - ASP.NET Core essentials: routing, localization, configuration, middleware, error handling, logging
@@ -38,3 +30,5 @@ Each post breaks down components of the framework by addressing three practical 
 - .NET engineers modernizing legacy applications or crafting new cloud-native backends
 - Developers who prioritize continuous improvement and code quality
 - Teams pursuing maintainability, observability, scalability, and high performance in .NET 8, 9, and beyond
+
+---

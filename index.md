@@ -4,14 +4,14 @@ title: What is Modernization?
 list_title: Posts
 ---
 
-Modernization is a **mindset of relentless refinement**—for your systems **and** yourself.  
+Modernization is a **mindset of relentless refinement** — for your systems **and** yourself.  
 Each time you streamline or upgrade your code, you’re not just enhancing software; you’re honing your skills, deepening your understanding, and becoming more adaptable.
 
 ## Modernization at a glance
 
 Modernization goes beyond technical upgrades. It encompasses strategic decisions, product evolution, organizational culture shifts, data-driven processes, enhanced security practices, cost efficiency, and improved user experiences. Yet, at its core lies one crucial element that shapes the success of all other efforts: **your backend technology stack**.
 
-This blog series dives deeply into the backend modernization journey with **.NET**, exploring how refining backend systems can act as a catalyst for broader organizational transformation. We'll examine how .NET uniquely empowers teams to tackle essential modernization challenges—such as scalability, cloud readiness, developer productivity, robust security, and building resilient architectures.
+This blog series dives deeply into the backend modernization journey with **.NET**, exploring how refining backend systems can act as a catalyst for broader organizational transformation. We'll examine how .NET uniquely empowers teams to tackle essential modernization challenges — such as scalability, cloud readiness, developer productivity, robust security, and building resilient architectures.
 
 For an expanded exploration, see **[What Modernization Means](/modernization/)**.
 
@@ -23,7 +23,6 @@ For an expanded exploration, see **[What Modernization Means](/modernization/)**
 - Performance-focused Entity Framework Core patterns and migrations
 - Modern architecture patterns: modular monoliths, microservices, clean code, automated testing
 - Production-ready, reusable code snippets
-- Deployment and DevOps practices in .NET contexts
 
 ## Who will benefit most?
 
